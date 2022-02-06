@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Cafeteria</string>
+    <string name="h1Cafeteria">Cafeteria da Esquina</string>
+    <string name="h2Menu">Menu</string>
+    <string name="btnCardapio">Cardápio</string>
+    <string name="btnPedido">Pedidos</string>
+    <string name="btnSobre">Sobre</string>
+    <string name="labelCafes">Cafés</string>
+    <string name="labelSalgados">Salgados</string>
+    <string name="labelDoces">Doces</string>
+    <string name="labelTalheres">Deseja Talheres?</string>
+    <string name="labelEntrega">Digite o endereço para entrega</string>
+    <string name="btnPedir">Fazer Pedido</string>
+    <string name="textoSobre">Um lugar para tomar um bom café e fazer amigos</string>
+    <string name="btnSaberMais">Saber Mais</string>
+
+
+    <string-array name="itensSpinnerCafes">
+        <item>Café Expresso</item>
+        <item>Capuchino</item>
+        <item>Moccachino</item>
+        <item>Latte Machiato</item>
+        <item>Carioca</item>
+        <item>Passado</item>
+    </string-array>
+
+    <string-array name="itensSpinnerSalgados">
+        <item>Quiche de Espinafre</item>
+        <item>Pão de Queijo</item>
+        <item>Empada</item>
+        <item>Pastel</item>
+    </string-array>
+
+    <string-array name="itensSpinnerDoces">
+        <item>Brigadeiro</item>
+        <item>Bolo</item>
+        <item>Mousse</item>
+        <item>Pudim</item>
+    </string-array>
+</resources>

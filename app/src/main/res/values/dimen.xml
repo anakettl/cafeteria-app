@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="titles">34sp</dimen>
+    <dimen name="buttons">24sp</dimen>
+    <dimen name="cardapiooptions">20sp</dimen>
+    <dimen name="textocardapio">16sp</dimen>
+</resources>
